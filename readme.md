@@ -2,8 +2,6 @@
 
 [Repository Link](https://github.com/connorjnel/tailwind-css-traversy)
 
-[Tailwind Projects](https://connorjnel.github.io/tailwind-css-traversy/)
-
 ## Mini Projects
 
 - [Mini-project](https://connorjnel.github.io/tailwind-css-traversy/mini-projects/1)
