@@ -1,9 +1,24 @@
-# tailwind-css-traversy
+# Tailwind-css-traversy
 
 Tailwind CSS From Scratch - Brad Traversy
 
 [Repository Link](https://github.com/connorjnel/tailwind-css-traversy)
 
-Tailwind Projects
+[Tailwind Projects](https://connorjnel.github.io/tailwind-css-traversy/)
 
-- [Placeholder](#)
+## Mini Projects
+
+- [Mini-project](https://connorjnel.github.io/tailwind-css-traversy/mini-projects/1)
+- [Mini-project](https://connorjnel.github.io/tailwind-css-traversy/mini-projects/1)
+- [Mini-project](https://connorjnel.github.io/tailwind-css-traversy/mini-projects/1)
+- [Mini-project](https://connorjnel.github.io/tailwind-css-traversy/mini-projects/1)
+- [Mini-project](https://connorjnel.github.io/tailwind-css-traversy/mini-projects/1)
+
+## Large Projects
+
+- [Large-project](https://connorjnel.github.io/tailwind-css-traversy/large-projects/1)
+- [Large-project](https://connorjnel.github.io/tailwind-css-traversy/large-projects/1)
+- [Large-project](https://connorjnel.github.io/tailwind-css-traversy/large-projects/1)
+- [Large-project](https://connorjnel.github.io/tailwind-css-traversy/large-projects/1)
+- [Large-project](https://connorjnel.github.io/tailwind-css-traversy/large-projects/1)
+- [Large-project](https://connorjnel.github.io/tailwind-css-traversy/large-projects/1)
