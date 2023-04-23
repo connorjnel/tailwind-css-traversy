@@ -1,6 +1,4 @@
-# Tailwind-css-traversy
-
-Tailwind CSS From Scratch - Brad Traversy
+# Tailwind CSS From Scratch - Brad Traversy
 
 [Repository Link](https://github.com/connorjnel/tailwind-css-traversy)
 
