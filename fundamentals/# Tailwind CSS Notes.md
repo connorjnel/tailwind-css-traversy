@@ -18,3 +18,5 @@
 - Very nice, a whole lot of classes on each element but works extremely well, logical naming, colors especially very well thought out with variable color from 50 - 950
 - Black and white have no shades, other colors need to have a num value otherwise default to black
 - To have intellisense work for tailwind need to have tailwind installed and tailwind config file setup
+- You can do abritray values as well, just use square brackets ie class="text-[#333]"
+- Custom fonts can be used, just configure in tailwind.config.js
